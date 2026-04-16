@@ -73,4 +73,4 @@ Through my role as a Football Data Analytics Intern, I’ve worked with real-wor
 
 - LinkedIn: www.linkedin.com/in/sebastian-trevino-131671310
 - Handshake: https://app.joinhandshake.com/profiles/nckwm7
-- Email: strevin1@trinity.edu
+- Email: srtrevino03@gmail.com

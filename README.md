@@ -17,13 +17,23 @@ Through my role as a Football Data Analytics Intern, I’ve worked with real-wor
 ## Technical Skills
 
 - **Languages:** Python, R, SQL  
-- **Data Tools:** Pandas, NumPy, Scikit-learn  
+- **Data Analysis and Modeling:** pandas, NumPy, SciPy, statsmodels, scikit-learn, pyGam, catboost
 - **Visualization:** Tableau, PowerBI, Matplotlib, Seaborn, Plotly  
-- **Other:** Excel (MOS Certified), Data Cleaning, Feature Engineering, Machine Learning  
+- **Other:** Excel (MOS Certified), Feature Engineering, Statistical Inference
 
 ---
 
 ## Featured Projects
+
+### 🏈 Football Analytics Model (Internship)
+- Analyzed ~10 years of game data  
+- Built predictive model for play success probability  
+- Delivered insights through Tableau dashboards
+
+### 📊 NSSE Institutional Research – Trinity University (Consulting)
+- Merged longitudinal survey data and engineered a binary experiential learning variable
+- Applied mixed-effects models to uncover how high-impact practices accelerate early student engagement
+- Presented findings and actionable insights to university administration via report and stakeholder presentation
 
 ### 📈 Gasoline Demand Forecasting
 - Built an ML model to predict high-demand gasoline weeks  
@@ -38,21 +48,15 @@ Through my role as a Football Data Analytics Intern, I’ve worked with real-wor
 ### 🏡 House Price Prediction (Kaggle)
 - Performed full EDA and feature selection  
 - Built regression model with Adjusted R² of 0.86  
-- Validated all regression assumptions  
+- Validated all regression assumptions
 
-### 🏈 Football Analytics Model (Internship)
-- Analyzed ~10 years of game data  
-- Built predictive model for play success probability  
-- Delivered insights through Tableau dashboards  
-
-### Add consulting stuff
 ---
 
 ## Experience
 
 **Football Data Analytics Intern — Trinity University**  
 - Built predictive models and dashboards for performance analysis  
-- Cleaned and processed large datasets using Python and R  
+- Cleaned and processed large datasets using Python  
 - Collaborated with coaching staff to deliver actionable insights  
 
 ---

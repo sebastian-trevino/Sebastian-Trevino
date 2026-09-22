@@ -8,7 +8,7 @@
 
 ## About Me
 
-I build models that people actually act on. My background is a BS in Business Analytics & Technology from Trinity University and a data analytics internship I built from scratch for Trinity's football program — where the deliverable was never a notebook, it was a recommendation a coaching staff could use on Saturday.
+I build models that people actually act on. My background is a BS in Business Analytics & Technology and minor in Data Science from Trinity University and a data analytics internship I built from scratch for Trinity's football program — where the deliverable was never a notebook, it was a recommendation a coaching staff could use on Saturday.
 
 I'm now in the MS Business Analytics and AI program at UT Austin's McCombs School of Business, on the Financial Analytics track. The coursework is pushing me deeper into deep learning, optimization, and unstructured data, while the finance electives give me the vocabulary to apply it where the cost of being wrong is measurable.
 

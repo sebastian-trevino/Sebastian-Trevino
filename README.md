@@ -1,7 +1,7 @@
 # Hi, I'm Sebastian Trevino
 
-🎓 MS Business Analytics & AI candidate at UT Austin (McCombs) — Financial Analytics track, May 2027
-📍 Austin, TX
+🎓 MS Business Analytics & AI candidate at UT Austin (McCombs) — Financial Analytics track, May 2027  
+📍 Austin, TX  
 📊 Predictive modeling, machine learning, and analytics that support real decisions
 
 ---
@@ -56,7 +56,7 @@ Full EDA, feature selection, and regression modeling reaching an adjusted R² of
 
 ## Experience
 
-**Data Analytics Lead Intern — Trinity University Football**
+**Data Analytics Lead Intern — Trinity University Football**  
 *May 2025 – May 2026 · San Antonio, TX*
 - Established the program's first analytics internship and led a team of two interns
 - Collected, cleaned, and modeled eight seasons of game data using Hudl, Python, and R

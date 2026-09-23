@@ -41,16 +41,10 @@ End-to-end analytics workflow built from nothing for Trinity's football program,
 - Delivered through interactive Tableau and Plotly dashboards used by coaching staff
 - Led a team of two interns and wrote the process documentation the program still runs on
 
-### 📊 NSSE Institutional Research — Senior Capstone
+### 📊 [NSSE Institutional Research — Senior Capstone](https://github.com/sebastian-trevino/trinity-nsse-student-engagement)
 Longitudinal study of how experiential learning shapes student engagement, presented to Trinity's Institutional Research Office and the Dean of the School of Business.
 - Merged multi-year survey data and engineered a binary experiential-learning variable
 - Mixed-effects models on a 119-student cohort: experiential learners began with higher Academic Challenge scores (β = 5.42, p = .004) but converged with peers by senior year (β = −5.83, p = .003); Faculty Experience scores rose across all class years (β = 3.95, p = .039)
-
-### 🎓 Admissions Enrollment Prediction
-Classification models predicting student enrollment, using Decision Trees and Random Forests tuned on Cohen's Kappa to handle class imbalance.
-
-### 🏡 House Price Prediction
-Full EDA, feature selection, and regression modeling reaching an adjusted R² of 0.86, with all regression assumptions validated.
 
 ---
 
